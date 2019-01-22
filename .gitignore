@@ -1,6 +1,6 @@
 # Built application files
-*.apk
-*.ap_
+# *.apk
+# *.ap_
 
 # Files for the ART/Dalvik VM
 *.dex
@@ -34,6 +34,7 @@ captures/
 
 # IntelliJ
 *.iml
+.idea/modules.xml
 .idea/workspace.xml
 .idea/tasks.xml
 .idea/gradle.xml
@@ -63,3 +64,7 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
+
+# Mac-specific folders
+.DS_Store
+
