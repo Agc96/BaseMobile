@@ -1,4 +1,4 @@
-package com.qtcteam.anthony.baseproject.model.api;
+package com.qtcteam.anthony.baseproject.api;
 
 import java.util.concurrent.TimeUnit;
 
